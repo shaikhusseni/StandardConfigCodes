@@ -1,0 +1,12 @@
+1)Mysql Data Base configurations with sts tool
+
+server.port=7866
+spring.datasource.url=jdbc:mysql://localhost:3306/booking
+spring.datasource.username=root
+spring.datasource.password=7866
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+
+2)H2 Data Base Configuratiosn
+
